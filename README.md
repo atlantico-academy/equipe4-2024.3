@@ -13,10 +13,14 @@ O cultivo de laranjas é uma atividade agrícola significativa que atende tanto 
 Neste projeto, vamos abordar as seguintes questões:
 
 <div align=" ">
-- a: Como a maciez das laranjas varia com o tempo de colheita e o estágio de maturação? Laranjas mais maduras são sempre mais macias?
-- b: A cor das laranjas está relacionada à sua qualidade? Quais tonalidades são indicativas de maior qualidade?
-- c: Qual é a influência das manchas na avaliação da qualidade das laranjas?
-- d: Como o tempo de colheita afeta as características das laranjas? Existem períodos ideais para a colheita que maximizam a qualidade?
+a: Como a maciez das laranjas varia com o tempo de colheita e o estágio de maturação? Laranjas mais maduras são sempre mais macias?
+
+b: A cor das laranjas está relacionada à sua qualidade? Quais tonalidades são indicativas de maior qualidade?
+
+c: Qual é a influência das manchas na avaliação da qualidade das laranjas?
+
+d: Como o tempo de colheita afeta as características das laranjas? Existem períodos ideais para a colheita que maximizam a qualidade?
+
 </div>
 
 ## Desenvolvedores
