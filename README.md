@@ -50,19 +50,19 @@ O projeto também é dividido em duas entregas, a saber:
 <div align = " ">
 
 - Análise Exploratória de Dados (EDA): entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
-- Análise comparativa de modelos: construção de modelos de aprendizado de máquina para rpevisão de consumo, com métricas de desempenho para avaliação da performance.
+- Análise comparativa de modelos: construção de modelos de aprendizado de máquina para previsão de consumo, com métricas de desempenho para avaliação da performance.
 
 </div>
 
 ## Resultados Esperados
 
-a: Espera-se observar uma correlação positiva entre a maciez e o estágio de maturação; ou seja, laranjas mais maduras tendem a ser mais macias. No entanto, pode haver variações dependendo da variedade.
+A: Espera-se observar uma correlação positiva entre a maciez e o estágio de maturação; ou seja, laranjas mais maduras tendem a ser mais macias. No entanto, pode haver variações dependendo da variedade.
 
-b: Espera-se encontrar uma associação entre a cor das laranjas e sua qualidade, onde tonalidades de laranja mais vibrantes (mais próximas do amarelo-alaranjado) são indicativas de maior qualidade.
+B: Espera-se encontrar uma associação entre a cor das laranjas e sua qualidade, onde tonalidades de laranja mais vibrantes (mais próximas do amarelo-alaranjado) são indicativas de maior qualidade.
 
-c: É provável que a presença de manchas (blemishes) tenha um impacto negativo na avaliação da qualidade das laranjas. As laranjas com manchas podem ser classificadas com menor qualidade, independentemente de outros parâmetros como doçura e acidez.
+C: É provável que a presença de manchas (blemishes) tenha um impacto negativo na avaliação da qualidade das laranjas. As laranjas com manchas podem ser classificadas com menor qualidade, independentemente de outros parâmetros como doçura e acidez.
 
-d: Espera-se que o tempo de colheita afete significativamente as características das laranjas, com a identificação de períodos ideais que maximizam a qualidade em termos de sabor, textura e aparência.
+D: Espera-se que o tempo de colheita afete significativamente as características das laranjas, com a identificação de períodos ideais que maximizam a qualidade em termos de sabor, textura e aparência.
 
 ## Dicionário de dados
 
