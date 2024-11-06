@@ -21,6 +21,8 @@ c: Qual é a influência das manchas na avaliação da qualidade das laranjas?
 
 d: Como o tempo de colheita afeta as características das laranjas? Existem períodos ideais para a colheita que maximizam a qualidade?
 
+e: A presença de manchas afeta o pH ou a doçura das laranjas? Isso poderia indicar alguma relação entre defeitos visuais e características internas da fruta.
+
 </div>
 
 ## Desenvolvedores
@@ -63,6 +65,8 @@ B: Espera-se encontrar uma associação entre a cor das laranjas e sua qualidade
 C: É provável que a presença de manchas (blemishes) tenha um impacto negativo na avaliação da qualidade das laranjas. As laranjas com manchas podem ser classificadas com menor qualidade, independentemente de outros parâmetros como doçura e acidez.
 
 D: Espera-se que o tempo de colheita afete significativamente as características das laranjas, com a identificação de períodos ideais que maximizam a qualidade em termos de sabor, textura e aparência.
+
+E: É provável que laranjas com manchas podem ter pH mais baixo (maior acidez) e menor doçura, indicando possíveis processos de degradação que afetam a qualidade interna. A presença de manchas pode assim refletir mudanças na acidez e noçura da fruta.
 
 ## Dicionário de dados
 
