@@ -13,16 +13,23 @@ O cultivo de laranjas é uma atividade agrícola significativa que atende tanto 
 Neste projeto, vamos abordar as seguintes questões:
 
 <div align=" ">
-- a: Como a maciez das laranjas varia com o tempo de colheita e o estágio de maturação? Laranjas mais maduras são sempre mais macias?
-- b: A cor das laranjas está relacionada à sua qualidade? Quais tonalidades são indicativas de maior qualidade?
-- c: Qual é a influência das manchas na avaliação da qualidade das laranjas?
-- d: Como o tempo de colheita afeta as características das laranjas? Existem períodos ideais para a colheita que maximizam a qualidade?
+a: Como a maciez das laranjas varia com o tempo de colheita e o estágio de maturação? Laranjas mais maduras são sempre mais macias?
+
+b: A cor das laranjas está relacionada à sua qualidade? Quais tonalidades são indicativas de maior qualidade?
+
+c: Qual é a influência das manchas na avaliação da qualidade das laranjas?
+
+d: Como o tempo de colheita afeta as características das laranjas? Existem períodos ideais para a colheita que maximizam a qualidade?
+
+e: A presença de manchas afeta o pH ou a doçura das laranjas? Isso poderia indicar alguma relação entre defeitos visuais e características internas da fruta.
+
 </div>
 
 ## Desenvolvedores
 
 - Isabel Cristina Martins (https://github.com/IsaCristinaMartins)
-- [Paulo Carlos ](url-do-github-do-desenvolvedor-#2)
+- Paulo Carlos da Silva Filho (https://github.com/paulocarlosfilho)
+- Roberto Augusto Silva Costa (https://github.com/RobertoAHOW)
 - [Sara](url-do-github-do-desenvolvedor-#3)
 - [Jonas](url-do-github-do-desenvolvedor-#4)
 - ...
@@ -45,19 +52,21 @@ O projeto também é dividido em duas entregas, a saber:
 <div align = " ">
 
 - Análise Exploratória de Dados (EDA): entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
-- Análise comparativa de modelos: construção de modelos de aprendizado de máquina para rpevisão de consumo, com métricas de desempenho para avaliação da performance.
+- Análise comparativa de modelos: construção de modelos de aprendizado de máquina para previsão de consumo, com métricas de desempenho para avaliação da performance.
 
 </div>
 
 ## Resultados Esperados
 
-a: Espera-se observar uma correlação positiva entre a maciez e o estágio de maturação; ou seja, laranjas mais maduras tendem a ser mais macias. No entanto, pode haver variações dependendo da variedade.
+A: Espera-se observar uma correlação positiva entre a maciez e o estágio de maturação; ou seja, laranjas mais maduras tendem a ser mais macias. No entanto, pode haver variações dependendo da variedade.
 
-b: Espera-se encontrar uma associação entre a cor das laranjas e sua qualidade, onde tonalidades de laranja mais vibrantes (mais próximas do amarelo-alaranjado) são indicativas de maior qualidade.
+B: Espera-se encontrar uma associação entre a cor das laranjas e sua qualidade, onde tonalidades de laranja mais vibrantes (mais próximas do amarelo-alaranjado) são indicativas de maior qualidade.
 
-c: É provável que a presença de manchas (blemishes) tenha um impacto negativo na avaliação da qualidade das laranjas. As laranjas com manchas podem ser classificadas com menor qualidade, independentemente de outros parâmetros como doçura e acidez.
+C: É provável que a presença de manchas (blemishes) tenha um impacto negativo na avaliação da qualidade das laranjas. As laranjas com manchas podem ser classificadas com menor qualidade, independentemente de outros parâmetros como doçura e acidez.
 
-d: Espera-se que o tempo de colheita afete significativamente as características das laranjas, com a identificação de períodos ideais que maximizam a qualidade em termos de sabor, textura e aparência.
+D: Espera-se que o tempo de colheita afete significativamente as características das laranjas, com a identificação de períodos ideais que maximizam a qualidade em termos de sabor, textura e aparência.
+
+E: É provável que laranjas com manchas podem ter pH mais baixo (maior acidez) e menor doçura, indicando possíveis processos de degradação que afetam a qualidade interna. A presença de manchas pode assim refletir mudanças na acidez e noçura da fruta.
 
 ## Dicionário de dados
 
