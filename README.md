@@ -70,4 +70,4 @@ E: É provável que laranjas com manchas podem ter pH mais baixo (maior acidez) 
 
 ## Dicionário de dados
 
-Arquivo em formato .csv presente no diretório ../data/external/dicionario_dos_dados.csv
+Arquivo em formato .csv presente no diretório ../data/external/dicionario_de_dados_laranjas.csv
