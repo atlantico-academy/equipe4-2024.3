@@ -1,0 +1,5 @@
+Size (cm),Weight (g),Brix (Sweetness),pH (Acidity),Softness (1-5),HarvestTime (days),Ripeness (1-5),Color,Variety,Blemishes (Y/N),Quality (1-5)
+Size (cm),Weight (g),Brix (Sweetness),pH (Acidity),Softness (1-5),HarvestTime (days),Ripeness (1-5),Color,Variety,Blemishes (Y/N),Quality (1-5)
+Tamanho da laranja em centímetros,Peso da laranja em gramas,Nível de doçura da laranja medido pelo índice Brix,Nível de acidez da laranja,Grau de maciez da laranja em uma escala de 1 a 5,Tempo de colheita em dias,Grau de maturação da laranja em uma escala de 1 a 5,"Cor da laranja, representando diferentes tonalidades (ex: Orange, Deep Orange)","Variedade da laranja (ex: Valencia, Navel)","Presença de manchas na laranja, indicando se há defeitos visuais (ex: Y, N)",Qualidade da laranja em uma escala de 1 a 5
+quantitativa,quantitativa,quantitativa,quantitativa,quantitativa,quantitativa,quantitativa,qualitativa,qualitativa,qualitativa,quantitativa
+contínua,contínua,contínua,contínua,discreta,contínua,discreta,nominal,nominal,nominal,discreta

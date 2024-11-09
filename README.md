@@ -25,11 +25,10 @@ d: Como o tempo de colheita afeta as caracter√≠sticas das laranjas? Existem per√
 
 ## Desenvolvedores
 
-- Isabel Cristina Martins (https://github.com/IsaCristinaMartins)
+- [Isabel Cristina Martins](https://github.com/IsaCristinaMartins)
 - [Paulo Carlos ](url-do-github-do-desenvolvedor-#2)
 - [Sara](url-do-github-do-desenvolvedor-#3)
-- [Jonas](url-do-github-do-desenvolvedor-#4)
-- ...
+- [Jonas](https://github.com/jonasdspereira)
 
 ## Metodologia
 
