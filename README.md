@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://opopular.com.br/image/policy%3A1.3056345%3A1691819402%2Fimage.jpg%3F%26f%3D3x2" alt=" " />
+  <img src="http://www.brasilcult.pro.br/frutas/imagens/laranja02.jpg" alt=" " />
 </p>
 
 Esse projeto tem por objetivo analisar a qualidade de laranjas com base em caracteristicas como: size (tamanho), weight (peso), brix (doçura), pH (quantidade de acidez), softness (maciez), harvestTime (tempo de colheita), ripeness (maturação), color (cor), variety (variedade), blemishes (manchas) e quality (qualidade). A análise das laranjas é essencial para garantir a satisfação do consumidor e a excelência do produto, bem como otimizar práticas agrícolas, melhorar a eficiência da produção e desenvolver novas variedades que atendam às demandas do mercado. Assim, essa análise da qualidade não só visa auxiliar uma possível melhora no produto para os consumidores, mas também fortalece a competitividade dos produtores e a sustentabilidade da cadeia produtiva.
