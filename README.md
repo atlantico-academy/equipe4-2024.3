@@ -74,51 +74,52 @@ D: Espera-se que o tempo de colheita afete significativamente as característica
 
 E: A presença de manchas afeta o pH ou a doçura das laranjas? Isso poderia indicar alguma relação entre defeitos visuais e características internas da fruta.
 
+## Questão: "E"
 ## Pontos e machas, até onde afeta a Laranja:
 
 As manchas nas laranjas são um aspecto relevante a ser estudado, pois podem impactar diferentes características da fruta, incluindo o pH, a doçura, a aparência e as condições internas. Esse fenômeno pode ser observado em diversas variedades e ocorre devido a fatores como doenças fúngicas, condições ambientais e até manuseio inadequado. Aqui estão algumas considerações importantes:
 
 1. Impacto no pH da laranja:
 
-A presença de manchas geralmente não altera significativamente o pH da laranja.
-Em alguns casos, infecções fúngicas leves não conseguem modificar o nível de acidez.
-Manchas superficiais raramente afetam a química interna, incluindo o pH.
-No entanto, em infestações avançadas, o pH pode ser ligeiramente alterado devido a mudanças metabólicas.
-O pH é uma característica relativamente estável, mas, em casos severos de contaminação, mudanças podem ocorrer.
+- A presença de manchas geralmente não altera significativamente o pH da laranja.
+- Em alguns casos, infecções fúngicas leves não conseguem modificar o nível de acidez.
+- Manchas superficiais raramente afetam a química interna, incluindo o pH.
+- No entanto, em infestações avançadas, o pH pode ser ligeiramente alterado devido a mudanças metabólicas.
+- O pH é uma característica relativamente estável, mas, em casos severos de contaminação, mudanças podem ocorrer.
 
 2. Impacto na doçura:
 
--A doçura da laranja é mantida em manchas leves ou superficiais.
--Infestações profundas podem reduzir a concentração de açúcares, afetando a doçura.
--Manchas causadas por fungos invasivos podem impactar o sabor devido à degradação do açúcar.
--A doçura também pode ser influenciada pela qualidade nutricional da laranja comprometida por manchas.
--Em infestações severas, o sabor pode sofrer uma leve diminuição da doçura devido à ação de enzimas dos patógenos.
+- A doçura da laranja é mantida em manchas leves ou superficiais.
+- Infestações profundas podem reduzir a concentração de açúcares, afetando a doçura.
+- Manchas causadas por fungos invasivos podem impactar o sabor devido à degradação do açúcar.
+- A doçura também pode ser influenciada pela qualidade nutricional da laranja comprometida por manchas.
+- Em infestações severas, o sabor pode sofrer uma leve diminuição da doçura devido à ação de enzimas dos patógenos.
 
 3. Impacto na característica visual:
 
--Manchas afetam significativamente a aparência, tornando a laranja menos atraente.
--Visualmente, laranjas com manchas são frequentemente rejeitadas pelo consumidor.
--Variedades com cascas mais espessas podem disfarçar melhor manchas pequenas.
--Manchas escuras e profundas comprometem ainda mais a atratividade visual.
--A aparência é crucial, pois a percepção de qualidade está associada à cor e uniformidade da casca.
+- Manchas afetam significativamente a aparência, tornando a laranja menos atraente.
+- Visualmente, laranjas com manchas são frequentemente rejeitadas pelo consumidor.
+- Variedades com cascas mais espessas podem disfarçar melhor manchas pequenas.
+- Manchas escuras e profundas comprometem ainda mais a atratividade visual.
+- A aparência é crucial, pois a percepção de qualidade está associada à cor e uniformidade da casca.
 
 4. Impacto nas características internas:
 
--Em casos leves, manchas externas não interferem na qualidade interna da laranja.
--A polpa pode ser afetada se a mancha for causada por patógenos que penetram a casca.
--Infecções fúngicas profundas podem comprometer o frescor da fruta.
--Em condições avançadas de deterioração, a textura interna pode ser afetada.
--Microrganismos invasivos também podem levar à perda de firmeza e umidade interna.
+- Em casos leves, manchas externas não interferem na qualidade interna da laranja.
+- A polpa pode ser afetada se a mancha for causada por patógenos que penetram a casca.
+- Infecções fúngicas profundas podem comprometer o frescor da fruta.
+- Em condições avançadas de deterioração, a textura interna pode ser afetada.
+- Microrganismos invasivos também podem levar à perda de firmeza e umidade interna.
 
 5. Referências:
 
-##Referências
+## Referências
 
--Franco, A. G., & Santos, R. M. "Estudos sobre a estabilidade do pH em frutas cítricas." Revista Brasileira de Fruticultura, 2019.
--Souza, P. L., et al. "Doçura e parâmetros sensoriais em frutas afetadas por manchas." Citrus Research International, 2020.
--Lima, J. B., & Costa, V. R. "Análise visual e qualidade de frutas cítricas com danos externos." Journal of Agricultural Sciences, 2021.
--Ribeiro, S. A., et al. "Doenças fúngicas e suas influências na qualidade de frutas cítricas." Brazilian Journal of Microbiology, 2022.
--Oliveira, D. F. "Manchas e suas influências em frutas cítricas: uma revisão." Agricultural Reviews, 2023. 
+- Franco, A. G., & Santos, R. M. "Estudos sobre a estabilidade do pH em frutas cítricas." Revista Brasileira de Fruticultura, 2019.
+- Souza, P. L., et al. "Doçura e parâmetros sensoriais em frutas afetadas por manchas." Citrus Research International, 2020.
+- Lima, J. B., & Costa, V. R. "Análise visual e qualidade de frutas cítricas com danos externos." Journal of Agricultural Sciences, 2021.
+- Ribeiro, S. A., et al. "Doenças fúngicas e suas influências na qualidade de frutas cítricas." Brazilian Journal of Microbiology, 2022.
+- Oliveira, D. F. "Manchas e suas influências em frutas cítricas: uma revisão." Agricultural Reviews, 2023. 
 
 ## Dicionário de dados
 
