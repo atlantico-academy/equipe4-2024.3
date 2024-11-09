@@ -21,6 +21,8 @@ c: Qual é a influência das manchas na avaliação da qualidade das laranjas?
 
 d: Como o tempo de colheita afeta as características das laranjas? Existem períodos ideais para a colheita que maximizam a qualidade?
 
+e: A presença de manchas afeta o pH ou a doçura das laranjas? Isso poderia indicar alguma relação entre defeitos visuais e características internas da fruta.
+
 </div>
 
 ## Desenvolvedores
