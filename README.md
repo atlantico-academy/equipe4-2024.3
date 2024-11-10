@@ -10,7 +10,7 @@ Esse projeto tem por objetivo analisar a qualidade de laranjas com base em carac
   <img src="http://www.brasilcult.pro.br/frutas/imagens/laranja02.jpg" alt=" " />
 </p>
 
-Imagem representativa sobre tipos de laranja e sua aparência, refêrencia a letra é que ressalta sobre pontos e machas.
+Imagem representativa sobre tipos de laranja e sua aparência, refêrencia a letra "E" que ressalta sobre pontos e machas.
 
 ## Justificativa
 
