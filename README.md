@@ -75,7 +75,7 @@ D: Espera-se que o tempo de colheita afete significativamente as característica
 E: A presença de manchas afeta o pH ou a doçura das laranjas? Isso poderia indicar alguma relação entre defeitos visuais e características internas da fruta.
 
 
-## Pontos e machas, até onde afeta a Laranja. Refência a letra "E":
+## Pontos e machas, até onde afeta a Laranja. Referência a letra "E":
 
 As manchas nas laranjas são um aspecto relevante a ser estudado, pois podem impactar diferentes características da fruta, incluindo o pH, a doçura, a aparência e as condições internas. Esse fenômeno pode ser observado em diversas variedades e ocorre devido a fatores como doenças fúngicas, condições ambientais e até manuseio inadequado. Aqui estão algumas considerações importantes:
 
