@@ -10,7 +10,7 @@ Esse projeto tem por objetivo analisar a qualidade de laranjas com base em carac
   <img src="http://www.brasilcult.pro.br/frutas/imagens/laranja02.jpg" alt=" " />
 </p>
 
-Imagem representativa sobre tipos de laranja e sua aparência.
+Imagem representativa sobre tipos de laranja e sua aparência, refêrencia a letra é que ressalta sobre pontos e machas.
 
 ## Justificativa
 
@@ -74,8 +74,8 @@ D: Espera-se que o tempo de colheita afete significativamente as característica
 
 E: A presença de manchas afeta o pH ou a doçura das laranjas? Isso poderia indicar alguma relação entre defeitos visuais e características internas da fruta.
 
-## Questão: "E"
-## Pontos e machas, até onde afeta a Laranja:
+
+## Pontos e machas, até onde afeta a Laranja. Refência a letra "E":
 
 As manchas nas laranjas são um aspecto relevante a ser estudado, pois podem impactar diferentes características da fruta, incluindo o pH, a doçura, a aparência e as condições internas. Esse fenômeno pode ser observado em diversas variedades e ocorre devido a fatores como doenças fúngicas, condições ambientais e até manuseio inadequado. Aqui estão algumas considerações importantes:
 
