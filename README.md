@@ -1,7 +1,7 @@
 # Análise da qualidade de laranjas
 
 <p align="center">
-  <img src="https://opopular.com.br/image/policy%3A1.3056345%3A1691819402%2Fimage.jpg%3F%26f%3D3x2" alt=" " />
+  <img src="data/external/logo_e_imagem.png" alt="Logo e Imagem" />
 </p>
 
 Esse projeto tem por objetivo analisar a qualidade de laranjas com base em caracteristicas como: size (tamanho), weight (peso), brix (doçura), pH (quantidade de acidez), softness (maciez), harvestTime (tempo de colheita), ripeness (maturação), color (cor), variety (variedade), blemishes (manchas) e quality (qualidade). A análise das laranjas é essencial para garantir a satisfação do consumidor e a excelência do produto, bem como otimizar práticas agrícolas, melhorar a eficiência da produção e desenvolver novas variedades que atendam às demandas do mercado. Assim, essa análise da qualidade não só visa auxiliar uma possível melhora no produto para os consumidores, mas também fortalece a competitividade dos produtores e a sustentabilidade da cadeia produtiva.
@@ -31,8 +31,8 @@ e: A presença de manchas afeta o pH ou a doçura das laranjas? Isso poderia ind
 - Paulo Carlos da Silva Filho (https://github.com/paulocarlosfilho)
 - Roberto Augusto Silva Costa (https://github.com/RobertoAHOW)
 - Sara Ferreira de Lara (https://github.com/saralvra)
-- [Jonas](url-do-github-do-desenvolvedor-#4)
-- ...
+- Jonas Pereira (https://github.com/jonasdspereira)
+
 
 ## Metodologia
 
