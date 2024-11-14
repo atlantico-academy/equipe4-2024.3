@@ -30,7 +30,7 @@ e: A presença de manchas afeta o pH ou a doçura das laranjas? Isso poderia ind
 - Isabel Cristina Martins (https://github.com/IsaCristinaMartins)
 - Paulo Carlos da Silva Filho (https://github.com/paulocarlosfilho)
 - Roberto Augusto Silva Costa (https://github.com/RobertoAHOW)
-- [Sara](url-do-github-do-desenvolvedor-#3)
+- Sara Ferreira de Lara (https://github.com/saralvra)
 - [Jonas](url-do-github-do-desenvolvedor-#4)
 - ...
 
